@@ -101,7 +101,7 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 
 For queries or collaboration:  
-📧 **aishwanth.dev@gmail.com**
+📧 **aprameya9844@gmail.com**
 
 ---
 
